@@ -1,17 +1,17 @@
 .App {
   text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+}
+/* .container {
+  text-align: center;
+  justify-self: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .container {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
